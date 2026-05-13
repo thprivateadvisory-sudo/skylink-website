@@ -9,11 +9,11 @@ import { cn } from '@/lib/cn';
 
 const NAV_LINKS = [
   { label: 'Accueil', href: '#hero' },
+  { label: 'Comment ça marche', href: '#comment' },
   { label: 'Notre Vision', href: '#vision' },
   { label: 'Villes Tests', href: '#villes' },
-  { label: 'Technologie & Conformité', href: '#conformite' },
+  { label: 'Conformité', href: '#conformite' },
   { label: 'Investir', href: '#investir' },
-  { label: 'Contact', href: '#contact' },
 ];
 
 export function Navbar() {
